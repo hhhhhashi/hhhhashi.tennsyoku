@@ -3,6 +3,6 @@
     color:aqua;
 }
 
-.main-logo li{
-    font-size: 40px;
-}
+li{
+    font-size:40px;
+    list-style:none;
